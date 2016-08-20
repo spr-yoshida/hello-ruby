@@ -1,3 +1,5 @@
 # Hello Ruby
 
-- MongoDB connection
+- MongoDB
+- Twitter
+- Sinatra
