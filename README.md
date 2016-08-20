@@ -1,0 +1,3 @@
+# Hello Ruby
+
+- MongoDB connection
